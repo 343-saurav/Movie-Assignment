@@ -1,0 +1,27 @@
+{
+  "movies": [
+    {
+      "id": "1",
+      "movieCode": "101",
+      "title": "Don",
+      "releaseDate": "1975",
+      "posterPath": "https://th.bing.com/th?id=OIP.bPBCgvp9N0SUbVYJnBg2IQHaEo&w=316&h=197&c=8&rs=1&qlt=90&o=6&dpr=2.5&pid=3.1&rm=2"
+    },
+    {
+      "id": "2",
+      "movieCode": "102",
+      "title": "Lagaan",
+      "releaseDate": "2004",
+      "posterPath": "https://th.bing.com/th?id=OIP.bPBCgvp9N0SUbVYJnBg2IQHaEo&w=316&h=197&c=8&rs=1&qlt=90&o=6&dpr=2.5&pid=3.1&rm=2"
+    }
+  ],
+  "favourites": [
+    {
+      "movieCode": "101",
+      "title": "Don",
+      "releaseDate": "1975",
+      "posterPath": "https://th.bing.com/th?id=OIP.bPBCgvp9N0SUbVYJnBg2IQHaEo&w=316&h=197&c=8&rs=1&qlt=90&o=6&dpr=2.5&pid=3.1&rm=2",
+      "id": 1
+    }
+  ]
+}
